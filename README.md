@@ -4,7 +4,7 @@
 ## 👀 About Me:
 
 - 👨‍💻 All of my projects are available at
-  **[My Portfolio](https://github.com/a-isaiahharvey?tab=repositories)**
+  **[My Portfolio](https://github.com/martial-plains?tab=repositories)**
 - 🤠 Coded 1000+ hours
 - ⭐ 60+ Repositories on GitHub
 - 📫 How to reach me **a.i.harvey@icloud.com**
@@ -35,9 +35,9 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=a-isaiahharvey&theme=transparent&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=martial-plains&theme=transparent&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=a-isaiahharvey&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=martial-plains&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
 
@@ -55,6 +55,6 @@ consists of and doesn't reflect experience or skill level.
 </p>
 
 <!---
-a-isaiahharvey/a-isaiahharvey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+martial-plains/martial-plains is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
