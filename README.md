@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allister Isaiah Harvey</h1>
-<h3 align="center">I'm a passionate Full Stack Developer
+<h3 align="center">I'm a passionate Full Stack Rust Developer
 
 ## 👀 About Me:
 
