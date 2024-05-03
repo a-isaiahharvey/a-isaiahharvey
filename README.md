@@ -49,7 +49,7 @@ consists of and doesn't reflect experience or skill level.
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/martial-plains"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/martial_plains"><img src="https://icons8.com/icon/phOKFKYpe00C/twitterx"/></a>
+<a href = "https://twitter.com/martial_plains"><img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png"/></a>
 <a href = "https://www.instagram.com/martial.plains/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
