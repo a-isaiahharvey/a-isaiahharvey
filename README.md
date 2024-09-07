@@ -23,12 +23,11 @@
 - Swift
 - HTML, CSS, Javascript, Typescript
 - Fresh Framework
-- Styling (Tailwindcss, Material-UI, Chakra-UI, Bootstrap, Bulma Css, Sass,
-  Styled components)
+- Styling (Tailwindcss)
 - Stripe, Razorpay (Payments)
-- Databases (Firebase Firestore, MongoDB, PostgreSQL)
+- Databases (SurrealDB, Firebase Firestore, MongoDB, PostgreSQL)
 - Project Management (git, Github, CI/CD)
-- Design (Figma, Canva)
+- Design (Figma, Canva, Affinity Design)
 - Deployment (Firebase, Shared hosting/C-panel)
 
 <br/>
